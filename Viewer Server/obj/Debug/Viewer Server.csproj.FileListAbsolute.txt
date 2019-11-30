@@ -1,0 +1,11 @@
+C:\Users\Alexandre\source\repos\Viewer Server\Viewer Server\bin\Debug\Viewer Server.exe.config
+C:\Users\Alexandre\source\repos\Viewer Server\Viewer Server\bin\Debug\Viewer Server.exe
+C:\Users\Alexandre\source\repos\Viewer Server\Viewer Server\bin\Debug\Viewer Server.pdb
+C:\Users\Alexandre\source\repos\Viewer Server\Viewer Server\obj\Debug\Viewer Server.csprojAssemblyReference.cache
+C:\Users\Alexandre\source\repos\Viewer Server\Viewer Server\obj\Debug\Viewer_Server.Properties.Resources.resources
+C:\Users\Alexandre\source\repos\Viewer Server\Viewer Server\obj\Debug\Viewer Server.csproj.GenerateResource.cache
+C:\Users\Alexandre\source\repos\Viewer Server\Viewer Server\obj\Debug\Viewer Server.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre\source\repos\Viewer Server\Viewer Server\obj\Debug\Viewer Server.exe
+C:\Users\Alexandre\source\repos\Viewer Server\Viewer Server\obj\Debug\Viewer Server.pdb
+C:\Users\Alexandre\source\repos\Viewer Server\Viewer Server\obj\Debug\Viewer_Server.Main.resources
+C:\Users\Alexandre\source\repos\Viewer Server\Viewer Server\obj\Debug\Viewer_Server.ScreenView.resources
